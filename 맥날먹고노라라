@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>맥날먹고노라라</title>
+</head>
+<body>
+    <h1>맥날먹고노라라</h1>
+    <hr>
+    <a href="http://web.archive.org/web/20081218004525/http://kr.kids.yahoo.com/" target="_blank">야후꾸러기바로가기</a>
+    <img src = "C:\Users\user\Music\yahooGUURURI.jpg" alt = "야후꾸러기" widtd="500" height="500">
+    <h2>댓글달기</h2><textarea cols="10" rows="6">야후추억이다 어릴때 맨날 저기서 놀았는데..</textarea>
+    <hr><table border="1"> <caption>시간표</caption>
+        <tr><th>월</th><th>화</th><th>수</th><th>목</th><th>금</th></tr>
+        <tr><td>국어</td><td>영어</td><td>수학</td><td>사회</td><td>과학</td></tr> </table><hr>
+    <fieldset><legend>MCDONALD</legend><h2>MENU</h2><ul> <li>빅맥</li> <li>슈비</li> <li>맥스파이시 상하이버거</li> <li>베이컨토마스디럭스</li> </ul>
+    <h2>M오더로그인</h2><label><input type="text" placeholder="아이디"></label> <label for="pw"><input type="password" id="pw" placeholder="비밀번호"></label>
+    <p>주문하신 제품이 준비중입니다..</p> <progress value="60" max="100"></progress> <input type="button" value="BELL"></fieldset>
+</body>
+</html>
